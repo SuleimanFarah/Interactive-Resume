@@ -10,26 +10,14 @@ func _ready():
 	animation.play("Air Condition")
 	music = get_node("AudioStreamPlayer")
 	music.play()
-	var http_request = $HTTPRequest
-	http_request.connect("request_completed", self, "_on_request_completed")
-	var file_path = "res://assets/Resume/Suleiman Farah Resume.pdf"
+
+
 
 func _exit_tree():
 	music.stop()
 
-func downloadResume():
-	var url = "https://example.com/path/to/resume.pdf"
-	http_request.request(url)
+func _on_button_pressed():
+	print("pressed!")
+	var url = "https://www.dropbox.com/s/6jmvcuv0h980n00/Suleiman%20Farah%20Resume.pdf?dl=0"
+	OS.shell_open(url)
 
-func _on_request_completed(result, response_code, headers, body):
-	if response_code == 200:
-		var file_path = "user://resume.pdf"
-		var file = FileAccess.new()
-		if file.open(file_path, File.WRITE) == OK:
-			file.store_string(body)
-			file.close()
-			print("Resume downloaded successfully.")
-		else:
-			print("Failed to open download file for writing.")
-	else:
-		print("Failed to download resume. Response code: ", response_code)

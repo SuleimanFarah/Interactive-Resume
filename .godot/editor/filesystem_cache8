@@ -1,7 +1,8 @@
 2a60927148abd1d33b818b535e306557
-::res://::1684312302
+::res://::1684564026
 README.md::TextFile::-1::1684312113::0::1::::<><>::
-::res://assets/::1684309862
+::res://assets/::1684359583
+CosmicLilac_Tiles.png::CompressedTexture2D::5869160342256479246::1684357551::1684358738::1::::<><>::
 part-Slice 15.png::CompressedTexture2D::909373676875007814::1603812110::1684312305::1::::<><>::
 part-Slice 111.png::CompressedTexture2D::3465633421516601743::1603812110::1684312305::1::::<><>::
 part-Slice 141.png::CompressedTexture2D::718943467255355798::1603812110::1684312305::1::::<><>::
@@ -11,7 +12,7 @@ part-Slice 156.png::CompressedTexture2D::7042575301748625521::1603812110::168431
 part-Slice 270.png::CompressedTexture2D::3203976793211242655::1603812112::1684312305::1::::<><>::
 part-Slice 360.png::CompressedTexture2D::5085908321151534222::1603812112::1684312305::1::::<><>::
 part-Slice 368.png::CompressedTexture2D::3157999050906939028::1603812112::1684312305::1::::<><>::
-::res://assets/avatar frames/::1683953095
+::res://assets/avatar frames/::1684312306
 fwd1.png::CompressedTexture2D::3205219399820864579::1683610271::1684312306::1::::<><>::
 fwd2.png::CompressedTexture2D::2146185302320590571::1683611062::1684312306::1::::<><>::
 side1.png::CompressedTexture2D::3361794565897204746::1683612038::1684312306::1::::<><>::
@@ -22,28 +23,171 @@ standing.png::CompressedTexture2D::6720096667156353389::1683609191::1684312306::
 upstand.png::CompressedTexture2D::1910863436048557888::1683612205::1684312306::1::::<><>::
 upwalk1.png::CompressedTexture2D::5613682808119275036::1683612278::1684312306::1::::<><>::
 upwalk2.png::CompressedTexture2D::1624162867114622570::1683612299::1684312306::1::::<><>::
-::res://assets/char free/::1683065569
+::res://assets/char free/::1684312306
 global.png::CompressedTexture2D::187025509935893635::1635701684::1684312306::1::::<><>::
-::res://assets/Font/::1683182221
+::res://assets/Font/::1684312305
 ka1.ttf::FontFile::1582421323926344875::1118822602::1684312305::1::::<><>::
 MinecraftRegular-Bmg3.otf::FontFile::993453600934346791::1672537684::1684312305::1::::<><>::
-::res://assets/interior free/::1683616736
+::res://assets/GuttyKreumNatureTilesvol1_v2/::1684375851
+barrel32x32transparent.png::CompressedTexture2D::1471714401590462438::1614170768::1684375851::1::::<><>::
+bush32x32transparent.png::CompressedTexture2D::408997145939124594::1614170768::1684375851::1::::<><>::
+fence32x32transparent.png::CompressedTexture2D::1196799740818060172::1614170768::1684375851::1::::<><>::
+flower32x32transparent.png::CompressedTexture2D::5646533131244039277::1614170768::1684375851::1::::<><>::
+grassa32x32transparent.png::CompressedTexture2D::1663896191136039114::1614170768::1684375851::1::::<><>::
+grassb32x32transparent.png::CompressedTexture2D::5833668826020954632::1614170768::1684375851::1::::<><>::
+grassc32x32transparent.png::CompressedTexture2D::5140822051731582095::1614170768::1684375851::1::::<><>::
+grassd32x32transparent.png::CompressedTexture2D::5022273578982396056::1614170768::1684375851::1::::<><>::
+grasse32x32transparent.png::CompressedTexture2D::7974385756107953077::1614170768::1684375851::1::::<><>::
+grassf32x32transparent.png::CompressedTexture2D::6778474712345702956::1614170768::1684375851::1::::<><>::
+grassg32x32transparent.png::CompressedTexture2D::8045306861632905188::1614170768::1684375851::1::::<><>::
+grassh32x32transparent.png::CompressedTexture2D::3548022267496793705::1614170768::1684375851::1::::<><>::
+grassi32x32transparent.png::CompressedTexture2D::7782081172695187379::1614170768::1684375851::1::::<><>::
+patch32x32transparent.png::CompressedTexture2D::6519065436339419455::1614170768::1684375851::1::::<><>::
+Readme.txt::TextFile::-1::1614170768::0::1::::<><>::
+roadbottom32x32transparent.png::CompressedTexture2D::3493282243870272239::1614170768::1684375851::1::::<><>::
+roadmiddle32x32transparent.png::CompressedTexture2D::1693819830305821156::1614170768::1684375851::1::::<><>::
+roadtop32x32transparent.png::CompressedTexture2D::5434437016972957929::1614170768::1684375851::1::::<><>::
+rock32x32transparent.png::CompressedTexture2D::6735412678235148660::1614170768::1684375851::1::::<><>::
+signpost32x32transparent.png::CompressedTexture2D::2575159684518523110::1614170768::1684375851::1::::<><>::
+tree96x96transparent.png::CompressedTexture2D::403412486108629329::1614170768::1684375851::1::::<><>::
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/::1684359668
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/Bush/::1684375851
+bush32x32transparentanimated1.png::CompressedTexture2D::1610316126338043896::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated2.png::CompressedTexture2D::9207166617490174545::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated3.png::CompressedTexture2D::52557880934208940::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated4.png::CompressedTexture2D::66547626407870752::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated5.png::CompressedTexture2D::8589936462436235976::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated6.png::CompressedTexture2D::4127361863227295919::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated7.png::CompressedTexture2D::6853252894730046545::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated8.png::CompressedTexture2D::3095498958053620987::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated9.png::CompressedTexture2D::6869112610449782041::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated10.png::CompressedTexture2D::3094170792435456968::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated11.png::CompressedTexture2D::8684051285587021071::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated12.png::CompressedTexture2D::4563029208688503695::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated13.png::CompressedTexture2D::1943572338312629417::1614171314::1684375851::1::::<><>::
+bush32x32transparentanimated14.png::CompressedTexture2D::7760102688280528608::1614171314::1684375851::1::::<><>::
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/Flower/::1684375851
+flower32x32transparentanimated1.png::CompressedTexture2D::3817891464539747674::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated2.png::CompressedTexture2D::2017290678582989084::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated3.png::CompressedTexture2D::8543652609603555193::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated4.png::CompressedTexture2D::3589798001253292695::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated5.png::CompressedTexture2D::2141434234007521957::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated6.png::CompressedTexture2D::3814296119184298917::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated7.png::CompressedTexture2D::6451655523870031814::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated8.png::CompressedTexture2D::5613302071723507769::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated9.png::CompressedTexture2D::4167098310610636649::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated10.png::CompressedTexture2D::6188072457489173770::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated11.png::CompressedTexture2D::654749023866358941::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated12.png::CompressedTexture2D::8946238068497537120::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated13.png::CompressedTexture2D::1977917385889392553::1614171334::1684375851::1::::<><>::
+flower32x32transparentanimated14.png::CompressedTexture2D::4654590438233201084::1614171334::1684375851::1::::<><>::
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/River_Bottom_Left/::1684375851
+riverbottomleft64x64animated1.png::CompressedTexture2D::9025274000811687739::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated2.png::CompressedTexture2D::1762427894993536904::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated3.png::CompressedTexture2D::2647529421211120575::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated4.png::CompressedTexture2D::7711713916671876921::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated5.png::CompressedTexture2D::1896800750260733459::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated6.png::CompressedTexture2D::3857152536343704781::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated7.png::CompressedTexture2D::5616779217538162381::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated8.png::CompressedTexture2D::1228443064915803932::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated9.png::CompressedTexture2D::4184457472349564915::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated10.png::CompressedTexture2D::2111534939730420244::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated11.png::CompressedTexture2D::3511728894784319871::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated12.png::CompressedTexture2D::7707143261343701741::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated13.png::CompressedTexture2D::5304054251120934198::1614171226::1684375851::1::::<><>::
+riverbottomleft64x64animated14.png::CompressedTexture2D::481135633144975292::1614171226::1684375851::1::::<><>::
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/River_Bottom_Middle/::1684375851
+riverbottom64x64transparentanimatednotbright1.png::CompressedTexture2D::9149736649892484640::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright2.png::CompressedTexture2D::4760786525988508612::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright3.png::CompressedTexture2D::5521704342048175844::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright4.png::CompressedTexture2D::5112450331526264780::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright5.png::CompressedTexture2D::8106904997417701331::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright6.png::CompressedTexture2D::3983697623562043517::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright7.png::CompressedTexture2D::7336935091027776733::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright8.png::CompressedTexture2D::8888946131078100532::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright9.png::CompressedTexture2D::7747610316197072673::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright10.png::CompressedTexture2D::2582334753364114297::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright11.png::CompressedTexture2D::8079403813876389966::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright12.png::CompressedTexture2D::8788011530764276430::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright13.png::CompressedTexture2D::7730777636159691478::1614171258::1684375851::1::::<><>::
+riverbottom64x64transparentanimatednotbright14.png::CompressedTexture2D::1410839814324966555::1614171258::1684375851::1::::<><>::
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/River_Top_Left/::1684375851
+rivertopleft64x64transparent1.png::CompressedTexture2D::4760760093547116087::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent2.png::CompressedTexture2D::51024916146349944::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent3.png::CompressedTexture2D::5693743307143365549::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent4.png::CompressedTexture2D::7328388766315508817::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent5.png::CompressedTexture2D::6593615077606034100::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent6.png::CompressedTexture2D::2740886488328577503::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent7.png::CompressedTexture2D::5863057069772849237::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent8.png::CompressedTexture2D::1803906869996970049::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent9.png::CompressedTexture2D::2308519786700949079::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent10.png::CompressedTexture2D::514971300884922294::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent11.png::CompressedTexture2D::1361629336388866472::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent12.png::CompressedTexture2D::3990934389030576040::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent13.png::CompressedTexture2D::9067619486671450770::1614170870::1684375851::1::::<><>::
+rivertopleft64x64transparent14.png::CompressedTexture2D::4980743394636765572::1614170870::1684375851::1::::<><>::
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/River_Top_Middle/::1684375851
+rivertop64x64transparentanimated1.png::CompressedTexture2D::8176705918999880041::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated2.png::CompressedTexture2D::7438662543553548090::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated3.png::CompressedTexture2D::3286535596996493256::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated4.png::CompressedTexture2D::1579910967551680630::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated5.png::CompressedTexture2D::8846972978631044464::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated6.png::CompressedTexture2D::7803381431208326686::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated7.png::CompressedTexture2D::2680683069873892245::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated8.png::CompressedTexture2D::1581225712828234417::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated9.png::CompressedTexture2D::5376908909672175704::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated10.png::CompressedTexture2D::8943740568188495506::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated11.png::CompressedTexture2D::9010860485337757097::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated12.png::CompressedTexture2D::1504912601992816409::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated13.png::CompressedTexture2D::6113858420391672563::1614170906::1684375851::1::::<><>::
+rivertop64x64transparentanimated14.png::CompressedTexture2D::7860652735882779700::1614170906::1684375851::1::::<><>::
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/Tree/::1684375851
+tree96x96transparentanimated1.png::CompressedTexture2D::6481643735497252803::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated2.png::CompressedTexture2D::8649368396487051055::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated3.png::CompressedTexture2D::442439796736983720::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated4.png::CompressedTexture2D::3231399101834158815::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated5.png::CompressedTexture2D::289884324980285101::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated6.png::CompressedTexture2D::7576502212799227908::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated7.png::CompressedTexture2D::7814332438598050769::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated8.png::CompressedTexture2D::7752646955901879102::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated9.png::CompressedTexture2D::7814821288111812258::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated10.png::CompressedTexture2D::4012703699901632366::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated11.png::CompressedTexture2D::7745817726798439049::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated12.png::CompressedTexture2D::7868949371218780391::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated13.png::CompressedTexture2D::7515961341088179814::1614171370::1684375851::1::::<><>::
+tree96x96transparentanimated14.png::CompressedTexture2D::8031791743372479513::1614171370::1684375851::1::::<><>::
+::res://assets/GuttyKreumNatureTilesvol1_v2/AnimationFrames/Tree_Stump/::1684375851
+chopped96x96Animated1.png::CompressedTexture2D::3691653889287036982::1614171290::1684375851::1::::<><>::
+chopped96x96Animated2.png::CompressedTexture2D::3035368718423209722::1614171290::1684375851::1::::<><>::
+chopped96x96Animated3.png::CompressedTexture2D::320032648490888657::1614171290::1684375851::1::::<><>::
+chopped96x96Animated4.png::CompressedTexture2D::6848544680018332465::1614171290::1684375851::1::::<><>::
+chopped96x96Animated5.png::CompressedTexture2D::5836718727468447005::1614171290::1684375851::1::::<><>::
+chopped96x96Animated6.png::CompressedTexture2D::6266457069742625296::1614171290::1684375851::1::::<><>::
+chopped96x96Animated7.png::CompressedTexture2D::3224350814632160385::1614171290::1684375851::1::::<><>::
+chopped96x96Animated8.png::CompressedTexture2D::7217422157737561510::1614171290::1684375851::1::::<><>::
+chopped96x96Animated9.png::CompressedTexture2D::3645640392936639375::1614171290::1684375851::1::::<><>::
+chopped96x96Animated10.png::CompressedTexture2D::1390447979486308321::1614171290::1684375851::1::::<><>::
+chopped96x96Animated11.png::CompressedTexture2D::7035698709483456933::1614171290::1684375851::1::::<><>::
+chopped96x96Animated12.png::CompressedTexture2D::6936988034682557240::1614171290::1684375851::1::::<><>::
+chopped96x96Animated13.png::CompressedTexture2D::1924480600575777979::1614171290::1684375851::1::::<><>::
+chopped96x96Animated14.png::CompressedTexture2D::2908660971305428778::1614171290::1684375851::1::::<><>::
+::res://assets/interior free/::1684312306
 furniture.png::CompressedTexture2D::904198271335211878::1683616032::1684312306::1::::<><>::
 interior free.png::CompressedTexture2D::3968004608367822142::1639071586::1684312306::1::::<><>::
-::res://assets/main_background/::1683177915
+::res://assets/main_background/::1684312308
 7481714.jpg::CompressedTexture2D::4245650568653051320::1657647052::1684312308::1::::<><>::
 cityset_parralax.png::CompressedTexture2D::872758220096442611::1683177899::1684312307::1::::<><>::
 sunset_orange.tres::GradientTexture1D::2379226573097368027::1683083050::0::1::::<><>::
-::res://assets/Music/::1683319783
+::res://assets/Music/::1684312310
 Fair_Fight_(Battle).wav::AudioStreamWAV::4967046790603421::1672171032::1684312309::1::::<><>::
 Plain_Sight_(Regular).wav::AudioStreamWAV::3948593824970384189::1672170172::1684312310::1::::<><>::
-::res://assets/Pixel_Interiors/::1683617173
+::res://assets/Pixel_Interiors/::1684312306
 Interior copy.png::CompressedTexture2D::512526743969980096::1683324228::1684312306::1::::<><>::
 Interior.png::CompressedTexture2D::2694940024802337925::1683324425::1684312306::1::::<><>::
 part-Slice 208.png::CompressedTexture2D::6998531257012196953::1683617172::1684312306::1::::<><>::
 part-Slice 218.png::CompressedTexture2D::3206349824140998997::1683617159::1684312306::1::::<><>::
 ::res://assets/Resume/::1684309864
-::res://assets/rubber-biscuit/::1683178751
+::res://assets/rubber-biscuit/::1684312305
 express.txt::TextFile::-1::1051195404::0::1::::<><>::
 name_font.TTF::FontFile::6774877791027594970::1683081254::1684312305::1::::<><>::
 RUBBBBO_.TTF::FontFile::4857831506836970198::1051194412::1684312305::1::::<><>::
@@ -52,10 +196,10 @@ RUBBBI__.TTF::FontFile::7075287961153835521::1051193864::1684312305::1::::<><>::
 RUBBBRO_.TTF::FontFile::8491284858768957073::1051194066::1684312305::1::::<><>::
 ::res://assets/sierrassets furniture pack/::1683238604
 interior bundle contents.txt::TextFile::-1::1603557968::0::1::::<><>::
-::res://assets/sierrassets furniture pack/floors and walls/::1683238621
+::res://assets/sierrassets furniture pack/floors and walls/::1684312306
 floor and walls spritesheet black outline.png::CompressedTexture2D::4170447594432856296::1603728270::1684312306::1::::<><>::
 floor and walls spritesheet.png::CompressedTexture2D::6651991057540390899::1603728230::1684312306::1::::<><>::
-::res://assets/sierrassets furniture pack/floors and walls/individual sprites/::1683238379
+::res://assets/sierrassets furniture pack/floors and walls/individual sprites/::1684312306
 Slice 1.png::CompressedTexture2D::8314011998805541533::1603813410::1684312306::1::::<><>::
 Slice 2.png::CompressedTexture2D::7013024252801244753::1603813410::1684312306::1::::<><>::
 Slice 3.png::CompressedTexture2D::530357088497809259::1603813410::1684312306::1::::<><>::
@@ -212,7 +356,7 @@ Slice 153.png::CompressedTexture2D::6641134096220869044::1603813410::1684312306:
 Slice 154.png::CompressedTexture2D::4917005836125259437::1603813410::1684312306::1::::<><>::
 Slice 155.png::CompressedTexture2D::4768677306848513814::1603813410::1684312306::1::::<><>::
 Slice 156.png::CompressedTexture2D::109613152367932804::1603813410::1684312306::1::::<><>::
-::res://assets/sierrassets furniture pack/floors and walls/individual sprites black outline/::1683238379
+::res://assets/sierrassets furniture pack/floors and walls/individual sprites black outline/::1684312306
 Slice 1.png::CompressedTexture2D::1877947102002496021::1603813436::1684312306::1::::<><>::
 Slice 2.png::CompressedTexture2D::8444998119079324382::1603813436::1684312306::1::::<><>::
 Slice 3.png::CompressedTexture2D::3296279530944969405::1603813436::1684312306::1::::<><>::
@@ -369,11 +513,11 @@ Slice 153.png::CompressedTexture2D::5581666657817646148::1603813436::1684312306:
 Slice 154.png::CompressedTexture2D::2364416407755713241::1603813436::1684312306::1::::<><>::
 Slice 155.png::CompressedTexture2D::2319673021458925485::1603813436::1684312306::1::::<><>::
 Slice 156.png::CompressedTexture2D::6053210388645045019::1603813436::1684312306::1::::<><>::
-::res://assets/sierrassets furniture pack/furniture/::1683248542
+::res://assets/sierrassets furniture pack/furniture/::1684312305
 furniture pack coloured outline.png::CompressedTexture2D::8102213064402710776::1605714652::1684312305::1::::<><>::
 furniture pack grey outline.png::CompressedTexture2D::6913155927423561470::1603814256::1684312305::1::::<><>::
 furniture spritesheet.png::CompressedTexture2D::5308957132235130164::1603814248::1684312305::1::::<><>::
-::res://assets/sierrassets furniture pack/furniture/individual sprites/::1683248963
+::res://assets/sierrassets furniture pack/furniture/individual sprites/::1684312307
 part-Slice 1.png::CompressedTexture2D::1895555048708690112::1603812110::1684312306::1::::<><>::
 part-Slice 2.png::CompressedTexture2D::3495344045326081471::1603812110::1684312306::1::::<><>::
 part-Slice 3.png::CompressedTexture2D::8660503453397818051::1603812110::1684312306::1::::<><>::
@@ -876,7 +1020,7 @@ part-Slice 500.png::CompressedTexture2D::2166537662978193179::1603812112::168431
 part-Slice 501.png::CompressedTexture2D::4274127414371061618::1603812112::1684312306::1::::<><>::
 part-Slice 502.png::CompressedTexture2D::2499703260469440750::1603812112::1684312306::1::::<><>::
 part-Slice 503.png::CompressedTexture2D::3653258393713631923::1603812112::1684312306::1::::<><>::
-::res://assets/sierrassets furniture pack/furniture/individual sprites coloured outlines/::1683238380
+::res://assets/sierrassets furniture pack/furniture/individual sprites coloured outlines/::1684312307
 Slice 1.png::CompressedTexture2D::3956864307909722588::1605714438::1684312306::1::::<><>::
 Slice 2.png::CompressedTexture2D::4419758752232860999::1605714438::1684312306::1::::<><>::
 Slice 3.png::CompressedTexture2D::6513436116850106397::1605714438::1684312306::1::::<><>::
@@ -1379,7 +1523,7 @@ Slice 500.png::CompressedTexture2D::7991675501776966989::1605714440::1684312305:
 Slice 501.png::CompressedTexture2D::7096169205559463543::1605714440::1684312305::1::::<><>::
 Slice 502.png::CompressedTexture2D::5997449370235601912::1605714440::1684312305::1::::<><>::
 Slice 503.png::CompressedTexture2D::1872934538635312390::1605714440::1684312305::1::::<><>::
-::res://assets/sierrassets furniture pack/furniture/individual sprites grey outline/::1683238379
+::res://assets/sierrassets furniture pack/furniture/individual sprites grey outline/::1684312306
 part-Slice 1.png::CompressedTexture2D::4579613564236714932::1603812258::1684312305::1::::<><>::
 part-Slice 2.png::CompressedTexture2D::3832135678733976292::1603812258::1684312305::1::::<><>::
 part-Slice 3.png::CompressedTexture2D::6048286294136893184::1603812258::1684312305::1::::<><>::
@@ -1882,10 +2026,10 @@ part-Slice 500.png::CompressedTexture2D::3140859491929193559::1603812260::168431
 part-Slice 501.png::CompressedTexture2D::2771895872221423047::1603812260::1684312305::1::::<><>::
 part-Slice 502.png::CompressedTexture2D::8111565741419081342::1603812260::1684312305::1::::<><>::
 part-Slice 503.png::CompressedTexture2D::3979355338566799606::1603812260::1684312305::1::::<><>::
-::res://assets/sierrassets furniture pack/pets/::1683248423
+::res://assets/sierrassets furniture pack/pets/::1684312305
 pets spritesheet grey outline.png::CompressedTexture2D::1028771466618329976::1603814142::1684312305::1::::<><>::
 pets spritesheet.png::CompressedTexture2D::8960802728922841391::1603814136::1684312305::1::::<><>::
-::res://assets/sierrassets furniture pack/pets/individual sprites/::1683615069
+::res://assets/sierrassets furniture pack/pets/individual sprites/::1684312305
 cat1.png::CompressedTexture2D::7671927595478738822::1683615062::1684312305::1::::<><>::
 cat2.png::CompressedTexture2D::8982079052118573968::1683614995::1684312305::1::::<><>::
 Slice 1.png::CompressedTexture2D::4701391603826626034::1603814188::1684312305::1::::<><>::
@@ -1912,7 +2056,7 @@ Slice 21.png::CompressedTexture2D::8040472101164150300::1603814188::1684312305::
 Slice 22.png::CompressedTexture2D::1571140439595011541::1603814188::1684312305::1::::<><>::
 Slice 23.png::CompressedTexture2D::7432389162218846147::1603814188::1684312305::1::::<><>::
 Slice 24.png::CompressedTexture2D::3413373746948694494::1603814188::1684312305::1::::<><>::
-::res://assets/sierrassets furniture pack/pets/individual sprites grey outline/::1683238379
+::res://assets/sierrassets furniture pack/pets/individual sprites grey outline/::1684312305
 Slice 1.png::CompressedTexture2D::950203475573833993::1603814212::1684312305::1::::<><>::
 Slice 2.png::CompressedTexture2D::2346878467105024778::1603814212::1684312305::1::::<><>::
 Slice 3.png::CompressedTexture2D::2915585313981081732::1603814212::1684312305::1::::<><>::
@@ -1937,7 +2081,68 @@ Slice 21.png::CompressedTexture2D::8110625288251482629::1603814212::1684312305::
 Slice 22.png::CompressedTexture2D::189580673354726001::1603814212::1684312305::1::::<><>::
 Slice 23.png::CompressedTexture2D::4939540459694905103::1603814212::1684312305::1::::<><>::
 Slice 24.png::CompressedTexture2D::8873313759291164483::1603814212::1684312305::1::::<><>::
-::res://assets/specific assets for comp background/::1683249484
+::res://assets/Small Forest Asset Pack/::1612464076
+::res://assets/Small Forest Asset Pack/Bench and chest/::1684375851
+Bench.png::CompressedTexture2D::2403073194872007620::1612410466::1684375851::1::::<><>::
+Chest.png::CompressedTexture2D::1035712482876419985::1612402370::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Bushes/::1684375851
+Bush-1.png::CompressedTexture2D::352533585338675202::1612406648::1684375851::1::::<><>::
+Bush-2.png::CompressedTexture2D::1120745773091528060::1612406774::1684375851::1::::<><>::
+Bush-3.png::CompressedTexture2D::4662731059982165054::1612406836::1684375851::1::::<><>::
+Bush-4.png::CompressedTexture2D::928516685515751886::1612406882::1684375851::1::::<><>::
+Stump.png::CompressedTexture2D::7095539983831552315::1612406416::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Fences/::1612416422
+::res://assets/Small Forest Asset Pack/Fences/Big wooden fence/::1684375851
+Big-wooden-fence-1.png::CompressedTexture2D::911476368999572355::1612411366::1684375851::1::::<><>::
+Big-wooden-fence-2.png::CompressedTexture2D::4681760879737666571::1612411336::1684375851::1::::<><>::
+Big-wooden-fence-3.png::CompressedTexture2D::4440292802187034365::1612411384::1684375851::1::::<><>::
+Big-wooden-fence-4.png::CompressedTexture2D::9135088200045311525::1612416332::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Fences/Stone fence/::1684375851
+Stone-fence-1.png::CompressedTexture2D::4869438613754660734::1612413020::1684375851::1::::<><>::
+Stone-fence-2.png::CompressedTexture2D::479120043660943857::1612413040::1684375851::1::::<><>::
+Stone-fence-3.png::CompressedTexture2D::5754321198108239230::1612413120::1684375851::1::::<><>::
+Stone-fence-4.png::CompressedTexture2D::7720141969216443331::1612413082::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Fences/Wooden fence/::1684375851
+Wooden-fence-1.png::CompressedTexture2D::2128926351916308036::1612410874::1684375851::1::::<><>::
+Wooden-fence-2.png::CompressedTexture2D::9089469006591197506::1612411258::1684375851::1::::<><>::
+Wooden-fence-3.png::CompressedTexture2D::7998422019844320095::1612411136::1684375851::1::::<><>::
+Wooden-fence-4.png::CompressedTexture2D::5331918699038911362::1612413198::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Flowers/::1684375851
+Flower-1.png::CompressedTexture2D::4165399691955321248::1612402582::1684375851::1::::<><>::
+Flower-2.png::CompressedTexture2D::424856581851079855::1612402624::1684375851::1::::<><>::
+Flower-3.png::CompressedTexture2D::6359798517400289256::1612402660::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Grass/::1684375851
+Grass-1.png::CompressedTexture2D::8829934474836501000::1612402476::1684375851::1::::<><>::
+Grass-2.png::CompressedTexture2D::1136980325764102914::1612402506::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Ground tileset/::1684375851
+Bright-grass-tileset.png::CompressedTexture2D::6629876266272667372::1612462560::1684375851::1::::<><>::
+Dark-grass-tileset.png::CompressedTexture2D::1969103389975571716::1612462702::1684375851::1::::<><>::
+Earth-tileset.png::CompressedTexture2D::2859542297723659399::1612463236::1684375851::1::::<><>::
+Stone-path-tileset-horizontal.png::CompressedTexture2D::8632270397407331539::1612465002::1684375851::1::::<><>::
+Stone-path-tileset-vertical.png::CompressedTexture2D::790239023663382750::1612465112::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Sculptures/::1684375851
+Sculpture-1.png::CompressedTexture2D::2695019599182335068::1612402304::1684375851::1::::<><>::
+Sculture-2.png::CompressedTexture2D::1271334422744069038::1612402326::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Stones/::1684375851
+Stone-1.png::CompressedTexture2D::7048047539540282137::1612406256::1684375851::1::::<><>::
+Stone-2.png::CompressedTexture2D::4246664582488728961::1612406292::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Trees/::1612415798
+::res://assets/Small Forest Asset Pack/Trees/Tree-1/::1684375851
+Tree-1-1.png::CompressedTexture2D::8930460364586814717::1612407054::1684375851::1::::<><>::
+Tree-1-2.png::CompressedTexture2D::2443687307904226168::1612407102::1684375851::1::::<><>::
+Tree-1-3.png::CompressedTexture2D::8349936718591018857::1612407158::1684375851::1::::<><>::
+Tree-1-4.png::CompressedTexture2D::4983439340315770195::1612407246::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Trees/Tree-2/::1684375851
+Tree-2-1.png::CompressedTexture2D::4836441036699660851::1612407314::1684375851::1::::<><>::
+Tree-2-2.png::CompressedTexture2D::7620363165351611999::1612407344::1684375851::1::::<><>::
+Tree-2-3.png::CompressedTexture2D::2902213424112151506::1612407408::1684375851::1::::<><>::
+Tree-2-4.png::CompressedTexture2D::5885486851015136573::1612410182::1684375851::1::::<><>::
+::res://assets/Small Forest Asset Pack/Trees/Tree-3/::1684375851
+Tree-3-1.png::CompressedTexture2D::529797337779612104::1612410252::1684375851::1::::<><>::
+Tree-3-2.png::CompressedTexture2D::3491340293882385812::1612410278::1684375851::1::::<><>::
+Tree-3-3.png::CompressedTexture2D::959594416181026274::1612410308::1684375851::1::::<><>::
+Tree-3-4.png::CompressedTexture2D::1888680281162750469::1612410328::1684375851::1::::<><>::
+::res://assets/specific assets for comp background/::1684312305
 part-Slice 15.png::CompressedTexture2D::8507876270183954293::1603812110::1684312305::1::::<><>::
 part-Slice 141.png::CompressedTexture2D::3452127223508685305::1603812110::1684312305::1::::<><>::
 part-Slice 223.png::CompressedTexture2D::2605497875955342222::1603812112::1684312305::1::::<><>::
@@ -1953,10 +2158,10 @@ part-Slice 413.png::CompressedTexture2D::6496868710853449385::1603812112::168431
 part-Slice 419.png::CompressedTexture2D::5781548983498735002::1603812112::1684312305::1::::<><>::
 ::res://assets/Sunny Land Trees Props Pack /::1669943208
 public-license.txt::TextFile::-1::1644262168::0::1::::<><>::
-::res://assets/Sunny Land Trees Props Pack /previews/::1683065569
+::res://assets/Sunny Land Trees Props Pack /previews/::1684312305
 all-bg.png::CompressedTexture2D::5264871256918671516::1651804727::1684312305::1::::<><>::
 all.png::CompressedTexture2D::6132673701031797486::1651804742::1684312305::1::::<><>::
-::res://assets/Sunny Land Trees Props Pack /Props PNG/::1683065569
+::res://assets/Sunny Land Trees Props Pack /Props PNG/::1684312305
 plant-house.png::CompressedTexture2D::2850423924676585180::1651782852::1684312305::1::::<><>::
 rock-1.png::CompressedTexture2D::1490500756976527323::1651622481::1684312305::1::::<><>::
 rock-2.png::CompressedTexture2D::4776466399115392069::1651622506::1684312305::1::::<><>::
@@ -1965,21 +2170,21 @@ tree-house.png::CompressedTexture2D::1369836226247546626::1651782828::1684312305
 wooden-house.png::CompressedTexture2D::3501041168408556433::1651782807::1684312305::1::::<><>::
 ::res://assets/sunny-land/::1683065532
 ::res://assets/sunny-land/assets/::1683065532
-::res://assets/sunny-land/assets/atlas/::1683065569
+::res://assets/sunny-land/assets/atlas/::1684312305
 atlas-props.json::JSON::-1::1496181039::0::1::::<><>::
 atlas-props.png::CompressedTexture2D::5537029904369779362::1496181039::1684312305::1::::<><>::
 atlas.json::JSON::-1::1496126858::0::1::::<><>::
 atlas.png::CompressedTexture2D::5851480327469267574::1496126858::1684312305::1::::<><>::
-::res://assets/sunny-land/assets/environment/::1683065569
+::res://assets/sunny-land/assets/environment/::1684312306
 back.png::CompressedTexture2D::3722540625593952004::1495753049::1684312305::1::::<><>::
 collision.png::CompressedTexture2D::229809140189304712::1494865793::1684312305::1::::<><>::
 middle.png::CompressedTexture2D::977670541801208435::1495753091::1684312305::1::::<><>::
 tileset.png::CompressedTexture2D::988740890921107240::1496160814::1684312306::1::::<><>::
 ::res://assets/sunny-land/assets/maps/::1496181115
 map.json::JSON::-1::1496181115::0::1::::<><>::
-::res://assets/sunny-land/assets/sound/::1683080876
+::res://assets/sunny-land/assets/sound/::1684312305
 platformer_level03_loop.ogg::AudioStreamOggVorbis::6495407609667705591::1477721120::1684312305::1::::<><>::
-::res://assets/sunny-land/assets/sprites/::1683080868
+::res://assets/sunny-land/assets/sprites/::1684312306
 credits-text.png::CompressedTexture2D::9046913684049746957::1501264615::1684312306::1::::<><>::
 instructions.png::CompressedTexture2D::6376825868233504229::1496184170::1684312306::1::::<><>::
 loading.png::CompressedTexture2D::267515217108021008::1448554982::1684312306::1::::<><>::
@@ -1990,21 +2195,21 @@ public-license.txt::TextFile::-1::1604861738::0::1::::<><>::
 ::res://assets/Sunny-land-assets-files/code/::1496184513
 ::res://assets/Sunny-land-assets-files/code/sunny-land/::1496184346
 ::res://assets/Sunny-land-assets-files/code/sunny-land/assets/::1501266158
-::res://assets/Sunny-land-assets-files/code/sunny-land/assets/atlas/::1683065569
+::res://assets/Sunny-land-assets-files/code/sunny-land/assets/atlas/::1684312306
 atlas-props.json::JSON::-1::1496181039::0::1::::<><>::
 atlas-props.png::CompressedTexture2D::2543656780634143930::1496181039::1684312306::1::::<><>::
 atlas.json::JSON::-1::1496126858::0::1::::<><>::
 atlas.png::CompressedTexture2D::1855134878937483643::1496126858::1684312306::1::::<><>::
-::res://assets/Sunny-land-assets-files/code/sunny-land/assets/environment/::1683065569
+::res://assets/Sunny-land-assets-files/code/sunny-land/assets/environment/::1684312306
 back.png::CompressedTexture2D::1344810962058394690::1495753049::1684312306::1::::<><>::
 collision.png::CompressedTexture2D::2762129640595319691::1494865793::1684312305::1::::<><>::
 middle.png::CompressedTexture2D::3460701732390479078::1495753091::1684312306::1::::<><>::
 tileset.png::CompressedTexture2D::8607204299479373519::1496160814::1684312306::1::::<><>::
 ::res://assets/Sunny-land-assets-files/code/sunny-land/assets/maps/::1496181115
 map.json::JSON::-1::1496181115::0::1::::<><>::
-::res://assets/Sunny-land-assets-files/code/sunny-land/assets/sound/::1683065569
+::res://assets/Sunny-land-assets-files/code/sunny-land/assets/sound/::1684312305
 platformer_level03_loop.ogg::AudioStreamOggVorbis::3881250601316841830::1477721120::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/code/sunny-land/assets/sprites/::1683065569
+::res://assets/Sunny-land-assets-files/code/sunny-land/assets/sprites/::1684312306
 credits-text.png::CompressedTexture2D::2649329052294063347::1501264615::1684312305::1::::<><>::
 instructions.png::CompressedTexture2D::8770901274637063828::1496184170::1684312306::1::::<><>::
 loading.png::CompressedTexture2D::5973085349139484607::1448554982::1684312305::1::::<><>::
@@ -2019,14 +2224,14 @@ title-screen.png::CompressedTexture2D::919901964503461683::1496009317::168431230
 ::res://assets/Sunny-land-assets-files/GIF/sprites/opossum/::1495829620
 ::res://assets/Sunny-land-assets-files/GIF/sprites/player/::1495752818
 ::res://assets/Sunny-land-assets-files/PNG/::1683237132
-::res://assets/Sunny-land-assets-files/PNG/environment/::1683237180
+::res://assets/Sunny-land-assets-files/PNG/environment/::1684312306
 environment-preview.png::CompressedTexture2D::7986572046378832525::1495753144::1684312306::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/environment/layers/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/environment/layers/::1684312306
 back.png::CompressedTexture2D::1891312268773250010::1495753049::1684312306::1::::<><>::
 middle.png::CompressedTexture2D::5889583681468017581::1495753091::1684312305::1::::<><>::
 props.png::CompressedTexture2D::2070084301766992074::1495753754::1684312306::1::::<><>::
 tileset.png::CompressedTexture2D::5318620097963272961::1496160814::1684312306::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/environment/props/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/environment/props/::1684312306
 big-crate.png::CompressedTexture2D::5197749802144593974::1495753752::1684312305::1::::<><>::
 block-big.png::CompressedTexture2D::4124395841090563247::1495753752::1684312305::1::::<><>::
 block.png::CompressedTexture2D::8504613070574914026::1495753752::1684312305::1::::<><>::
@@ -2049,7 +2254,7 @@ spikes-top.png::CompressedTexture2D::2691076104422454598::1495753752::1684312306
 spikes.png::CompressedTexture2D::4828797524586503347::1495753752::1684312306::1::::<><>::
 tree.png::CompressedTexture2D::6409978384667096705::1495753752::1684312306::1::::<><>::
 ::res://assets/Sunny-land-assets-files/PNG/sprites/::1683237169
-::res://assets/Sunny-land-assets-files/PNG/sprites/cherry/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/cherry/::1684312306
 cherry-1.png::CompressedTexture2D::7325798274001655214::1496005423::1684312306::1::::<><>::
 cherry-2.png::CompressedTexture2D::559595310775527528::1496005424::1684312306::1::::<><>::
 cherry-3.png::CompressedTexture2D::790593812724415511::1496005424::1684312306::1::::<><>::
@@ -2057,12 +2262,12 @@ cherry-4.png::CompressedTexture2D::5306906515658542949::1496005424::1684312306::
 cherry-5.png::CompressedTexture2D::6939492011564242431::1496005425::1684312306::1::::<><>::
 cherry-6.png::CompressedTexture2D::208709947787574283::1496005424::1684312306::1::::<><>::
 cherry-7.png::CompressedTexture2D::504943083636159818::1496005424::1684312306::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/eagle/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/eagle/::1684312306
 eagle-attack-1.png::CompressedTexture2D::2026653941263784020::1496004574::1684312306::1::::<><>::
 eagle-attack-2.png::CompressedTexture2D::7954245433911531881::1496004574::1684312306::1::::<><>::
 eagle-attack-3.png::CompressedTexture2D::672463735828773160::1496004575::1684312306::1::::<><>::
 eagle-attack-4.png::CompressedTexture2D::8800893066901175302::1496004575::1684312306::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/enemy-death/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/enemy-death/::1684312306
 enemy-death-1.png::CompressedTexture2D::3652258454548968253::1496004984::1684312306::1::::<><>::
 enemy-death-2.png::CompressedTexture2D::9048361555348570850::1496004985::1684312306::1::::<><>::
 enemy-death-3.png::CompressedTexture2D::8144637646274905341::1496004985::1684312306::1::::<><>::
@@ -2070,26 +2275,26 @@ enemy-death-4.png::CompressedTexture2D::5929700110612937985::1496004985::1684312
 enemy-death-5.png::CompressedTexture2D::6584294333857573525::1496004986::1684312306::1::::<><>::
 enemy-death-6.png::CompressedTexture2D::4766454611840788530::1496004986::1684312306::1::::<><>::
 ::res://assets/Sunny-land-assets-files/PNG/sprites/frog/::1496004842
-::res://assets/Sunny-land-assets-files/PNG/sprites/frog/idle/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/frog/idle/::1684312306
 frog-idle-1.png::CompressedTexture2D::362977244645015665::1496004815::1684312306::1::::<><>::
 frog-idle-2.png::CompressedTexture2D::7840465876785846751::1496004816::1684312306::1::::<><>::
 frog-idle-3.png::CompressedTexture2D::6392218283929193239::1496004816::1684312306::1::::<><>::
 frog-idle-4.png::CompressedTexture2D::7382514747680514839::1496004816::1684312306::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/frog/jump/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/frog/jump/::1684312305
 frog-jump-1.png::CompressedTexture2D::1528000180839204313::1496004867::1684312305::1::::<><>::
 frog-jump-2.png::CompressedTexture2D::7957195533769106315::1496004868::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/gem/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/gem/::1684312305
 gem-1.png::CompressedTexture2D::7406972352848622339::1496005481::1684312305::1::::<><>::
 gem-2.png::CompressedTexture2D::5605346017664603623::1496005482::1684312305::1::::<><>::
 gem-3.png::CompressedTexture2D::7321741083485346034::1496005482::1684312305::1::::<><>::
 gem-4.png::CompressedTexture2D::8241844067799805450::1496005482::1684312305::1::::<><>::
 gem-5.png::CompressedTexture2D::2988543941933687647::1496005483::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/item-feedback/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/item-feedback/::1684312305
 item-feedback-1.png::CompressedTexture2D::4994822919468288708::1496005057::1684312305::1::::<><>::
 item-feedback-2.png::CompressedTexture2D::8761008557564144787::1496005058::1684312305::1::::<><>::
 item-feedback-3.png::CompressedTexture2D::749789019221654333::1496005058::1684312305::1::::<><>::
 item-feedback-4.png::CompressedTexture2D::2501873489205767560::1496005058::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/opossum/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/opossum/::1684312305
 opossum-1.png::CompressedTexture2D::5719118604169574552::1496005544::1684312305::1::::<><>::
 opossum-2.png::CompressedTexture2D::7031492547635519640::1496005545::1684312305::1::::<><>::
 opossum-3.png::CompressedTexture2D::2485595575275815266::1496005546::1684312305::1::::<><>::
@@ -2097,32 +2302,32 @@ opossum-4.png::CompressedTexture2D::5338316353787665598::1496005547::1684312305:
 opossum-5.png::CompressedTexture2D::3475847620397869075::1496005548::1684312305::1::::<><>::
 opossum-6.png::CompressedTexture2D::5120653929616596601::1496005549::1684312305::1::::<><>::
 ::res://assets/Sunny-land-assets-files/PNG/sprites/player/::1533498816
-::res://assets/Sunny-land-assets-files/PNG/sprites/player/climb/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/player/climb/::1684312305
 player-climb-1.png::CompressedTexture2D::8847124850795416912::1496005663::1684312305::1::::<><>::
 player-climb-2.png::CompressedTexture2D::6397987647839254820::1496005663::1684312305::1::::<><>::
 player-climb-3.png::CompressedTexture2D::3908209623400018801::1496005663::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/player/crouch/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/player/crouch/::1684312305
 player-crouch-1.png::CompressedTexture2D::4121884927257504100::1496005737::1684312305::1::::<><>::
 player-crouch-2.png::CompressedTexture2D::9030719520529695666::1496005737::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/player/hurt/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/player/hurt/::1684312305
 player-hurt-1.png::CompressedTexture2D::9177055625713491465::1496005822::1684312305::1::::<><>::
 player-hurt-2.png::CompressedTexture2D::3654072439407498843::1496005822::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/player/idle/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/player/idle/::1684312305
 player-idle-1.png::CompressedTexture2D::1016162367896338080::1496005979::1684312305::1::::<><>::
 player-idle-2.png::CompressedTexture2D::6547560513968438194::1496005979::1684312305::1::::<><>::
 player-idle-3.png::CompressedTexture2D::7553595174092423343::1496005979::1684312305::1::::<><>::
 player-idle-4.png::CompressedTexture2D::2869736735902910236::1496005980::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/player/jump/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/player/jump/::1684312305
 player-jump-1.png::CompressedTexture2D::662459663648364327::1496006044::1684312305::1::::<><>::
 player-jump-2.png::CompressedTexture2D::1730779397162137409::1496006045::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/sprites/player/run/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/sprites/player/run/::1684312305
 player-run-1.png::CompressedTexture2D::8597213655958611553::1496006092::1684312305::1::::<><>::
 player-run-2.png::CompressedTexture2D::4339630368841015638::1496006092::1684312305::1::::<><>::
 player-run-3.png::CompressedTexture2D::5482269964553755988::1496006092::1684312305::1::::<><>::
 player-run-4.png::CompressedTexture2D::8425497799987020558::1496006093::1684312305::1::::<><>::
 player-run-5.png::CompressedTexture2D::262556609123918055::1496006093::1684312305::1::::<><>::
 player-run-6.png::CompressedTexture2D::3382767920065947727::1496006094::1684312305::1::::<><>::
-::res://assets/Sunny-land-assets-files/PNG/spritesheets/::1683065569
+::res://assets/Sunny-land-assets-files/PNG/spritesheets/::1684312305
 cherry.png::CompressedTexture2D::2575876547294229928::1496005439::1684312305::1::::<><>::
 eagle-attack.png::CompressedTexture2D::7348161490693702702::1496004606::1684312305::1::::<><>::
 enemy-deadth.png::CompressedTexture2D::723488994704435384::1496005003::1684312305::1::::<><>::
@@ -2146,28 +2351,28 @@ player-jump.png::CompressedTexture2D::4051783136683207108::1496006062::168431230
 ::res://assets/Sunny-land-assets-files/PSD/sprites/items/::1496005101
 ::res://assets/Sunny-land-assets-files/PSD/sprites/opossum/::1495829584
 ::res://assets/Sunny-land-assets-files/PSD/sprites/player/::1495752813
-::res://assets/Sunny-land-assets-files/Sound/::1683065569
+::res://assets/Sunny-land-assets-files/Sound/::1684312305
 platformer_level03.mp3::AudioStreamMP3::3200912451107878166::1480830560::1684312305::1::::<><>::
 platformer_level03_loop.ogg::AudioStreamOggVorbis::3448566802379201066::1477721120::1684312305::1::::<><>::
 ::res://assets/Sunnyland Trees/::1669943671
 public-license.txt::TextFile::-1::1615249997::0::1::::<><>::
 ::res://assets/Sunnyland Trees/aseprite/::1640396017
-::res://assets/Sunnyland Trees/Previews/::1683065569
+::res://assets/Sunnyland Trees/Previews/::1684312306
 trees.png::CompressedTexture2D::4432533675230470661::1640396101::1684312305::1::::<><>::
 treesx3.png::CompressedTexture2D::4856216168746455446::1640396107::1684312306::1::::<><>::
-::res://assets/Sunnyland Trees/Sprites/::1683237227
+::res://assets/Sunnyland Trees/Sprites/::1684312305
 Trees.png::CompressedTexture2D::737375722537663985::1640396138::1684312305::1::::<><>::
-::res://assets/Sunnyland Trees/Sprites/Sliced Trees/::1683065569
+::res://assets/Sunnyland Trees/Sprites/Sliced Trees/::1684312305
 palm.png::CompressedTexture2D::7483872246359807903::1640396180::1684312305::1::::<><>::
 pine.png::CompressedTexture2D::5774486613565295389::1640396197::1684312305::1::::<><>::
 tree.png::CompressedTexture2D::6104370206719557041::1640396222::1684312305::1::::<><>::
-::res://scenes/::1684311501
+::res://scenes/::1684375859
 main.gdshader::Shader::-1::1683177706::0::1::::<><>::
-main.tscn::PackedScene::2372000682183943994::1684308931::0::1::::<><>::res://scripts/main.gd<>uid://cysooc8h4fgcd<>uid://wssiox2irb1l<>uid://mo1g2vqhe5bj<>uid://ofibhhwoe1ux
+main.tscn::PackedScene::2372000682183943994::1684375858::0::1::::<><>::res://scripts/main.gd<>uid://cysooc8h4fgcd<>uid://wssiox2irb1l<>uid://mo1g2vqhe5bj<>uid://ofibhhwoe1ux
 moving_main.gdshader::Shader::-1::1683354663::0::1::::<><>::
 Player.tscn::PackedScene::5605110479209342404::1684308932::0::1::::<><>::res://scripts/character_animation.gd<>uid://cda3b41pht6e2
-world.tscn::PackedScene::946615313139636700::1684311501::0::1::::<><>::res://scripts/world.gd<>uid://benpjemb53ilp<>uid://cl4fl6m7sttq7<>uid://bwseprlgreehq<>uid://b0ogwr6wsca3a<>uid://co5esy40ee8ud<>uid://dq3ustyok3wr6<>uid://bfh1vss51s06r<>uid://b5sfwiby37hmt<>uid://b78nh6fjjkcbi<>uid://ifrfsgc5oxh1<>uid://ccyfyvsx584pn<>uid://cyteqjdr2s5ej<>uid://df7uw1sqc7alh<>uid://bwiy07qxsxxi0<>uid://blwbbako4xa7x<>uid://bbc7nemy1cvdy<>uid://c7lqgll2t5jh6<>uid://omx1ejyqsy16<>uid://b4sible55nw7o<>uid://kii5nkskmfu1<>uid://d1x7n3l1m5qvp<>uid://c5u4funvcllkm<>uid://m7ris31dhfec<>uid://yvd0jb1ujoi5<>uid://bl7givuug024j<>uid://bpm1qgnkjyhit<>uid://dhklr51coukp7<>uid://bk801veha6npk<>uid://d078sak7dy66g<>uid://dccj8q2uarw4u<>uid://ofibhhwoe1ux<>uid://cepwfxblhxlxm<>uid://bmwp6ely3hp7k<>uid://c6ye11ehynjk0<>uid://blxgd32ipunrp
-::res://scripts/::1684311501
+world.tscn::PackedScene::946615313139636700::1684375859::0::1::::<><>::res://scripts/world.gd<>uid://benpjemb53ilp<>uid://cl4fl6m7sttq7<>uid://bwseprlgreehq<>uid://b0ogwr6wsca3a<>uid://co5esy40ee8ud<>uid://dq3ustyok3wr6<>uid://bfh1vss51s06r<>uid://b5sfwiby37hmt<>uid://b78nh6fjjkcbi<>uid://ifrfsgc5oxh1<>uid://ccyfyvsx584pn<>uid://cyteqjdr2s5ej<>uid://df7uw1sqc7alh<>uid://bwiy07qxsxxi0<>uid://blwbbako4xa7x<>uid://bbc7nemy1cvdy<>uid://c7lqgll2t5jh6<>uid://omx1ejyqsy16<>uid://b4sible55nw7o<>uid://kii5nkskmfu1<>uid://d1x7n3l1m5qvp<>uid://c5u4funvcllkm<>uid://m7ris31dhfec<>uid://yvd0jb1ujoi5<>uid://bl7givuug024j<>uid://bpm1qgnkjyhit<>uid://dhklr51coukp7<>uid://bk801veha6npk<>uid://d078sak7dy66g<>uid://dccj8q2uarw4u<>uid://ofibhhwoe1ux<>uid://cepwfxblhxlxm<>uid://bmwp6ely3hp7k<>uid://c6ye11ehynjk0<>uid://blxgd32ipunrp
+::res://scripts/::1684357109
 character_animation.gd::GDScript::-1::1684307894::0::1::::<>CharacterBody2D<>::
 main.gd::GDScript::-1::1683258323::0::1::::<>Control<>::
-world.gd::GDScript::-1::1684311501::0::1::::<>Node2D<>::
+world.gd::GDScript::-1::1684357109::0::1::::<>Node2D<>::
