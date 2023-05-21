@@ -4,6 +4,8 @@ var animation;
 var cat;
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	var planetPlayer = $"Planet Animator"
+	planetPlayer.play("Spin")
 	animation = $AnimationPlayer;
 	cat = $CatAnimator;
 	cat.play("Cat Animation")

@@ -1,7 +1,7 @@
 [gd_scene load_steps=11 format=3 uid="uid://82arfoavuoic"]
 
 [ext_resource type="Script" path="res://scripts/main.gd" id="1_u62sb"]
-[ext_resource type="AudioStream" uid="uid://cysooc8h4fgcd" path="res://assets/sunny-land/assets/sound/platformer_level03_loop.ogg" id="4_kycrr"]
+[ext_resource type="AudioStream" uid="uid://v2uaylihb5af" path="res://assets/platformer_level03_loop.ogg" id="2_rk86l"]
 [ext_resource type="FontFile" uid="uid://wssiox2irb1l" path="res://assets/Font/ka1.ttf" id="5_wb6cf"]
 [ext_resource type="Texture2D" uid="uid://mo1g2vqhe5bj" path="res://assets/main_background/cityset_parralax.png" id="7_gl0ds"]
 [ext_resource type="FontFile" uid="uid://ofibhhwoe1ux" path="res://assets/Font/MinecraftRegular-Bmg3.otf" id="8_bndfe"]
@@ -76,7 +76,7 @@ scale = Vector2(0.561858, 0.561858)
 script = ExtResource("1_u62sb")
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("4_kycrr")
+stream = ExtResource("2_rk86l")
 
 [node name="NameText" type="Label" parent="."]
 layout_mode = 0
@@ -127,5 +127,15 @@ color = Color(1, 1, 1, 0)
 [node name="Timer" type="Timer" parent="."]
 wait_time = 0.5
 one_shot = true
+
+[node name="EnterText2" type="Label" parent="."]
+offset_left = 564.199
+offset_top = 1091.02
+offset_right = 1476.2
+offset_bottom = 1169.02
+scale = Vector2(0.602228, 0.602228)
+theme_override_fonts/font = ExtResource("8_bndfe")
+theme_override_font_sizes/font_size = 74
+text = "USE ARROW KEYS TO MOVE"
 
 [connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
