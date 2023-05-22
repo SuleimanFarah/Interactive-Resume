@@ -23,12 +23,23 @@ func _exit_tree():
 	music.stop()
 
 func _on_button_pressed():
-	print("pressed!")
 	var url = "https://www.dropbox.com/s/6jmvcuv0h980n00/Suleiman%20Farah%20Resume.pdf?dl=0"
 	OS.shell_open(url)
-
-
 
 func _on_timer_timeout():
 	rect.visible = not rect.visible;
 	animation.play("Air Condition")
+
+
+func _on_gmail_button_pressed():
+	OS.shell_open("mailto:farah.suly@gmail.com")
+
+
+func _on_linkedin_button_pressed():
+	var url = "https://www.linkedin.com/in/suleiman-farah-a0633a253/"
+	OS.shell_open(url)
+
+
+func _on_git_hub_button_pressed():
+	var url = "https://github.com/SuleimanFarah"
+	OS.shell_open(url)
