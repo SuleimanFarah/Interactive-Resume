@@ -1,8 +1,12 @@
 2a60927148abd1d33b818b535e306557
-::res://::1684623857
+::res://::1684729934
+Grass-1.png::CompressedTexture2D::3646178938768619351::1684729933::1684729934::1::::<><>::
+Grass-2.png::CompressedTexture2D::3485993716771963122::1684729922::1684729917::1::::<><>::
 README.md::TextFile::-1::1684312113::0::1::::<><>::
-::res://assets/::1684646183
+::res://assets/::1684736378
 CosmicLilac_Tiles.png::CompressedTexture2D::5869160342256479246::1684357551::1684358738::1::::<><>::
+github.png::CompressedTexture2D::4496933518715167065::1684729571::1684729912::1::::<><>::
+linkedin.png::CompressedTexture2D::840562343160007959::1684729718::1684729912::1::::<><>::
 part-Slice 15.png::CompressedTexture2D::909373676875007814::1603812110::1684312305::1::::<><>::
 part-Slice 111.png::CompressedTexture2D::3465633421516601743::1603812110::1684312305::1::::<><>::
 part-Slice 141.png::CompressedTexture2D::718943467255355798::1603812110::1684312305::1::::<><>::
@@ -14,6 +18,8 @@ part-Slice 360.png::CompressedTexture2D::5085908321151534222::1603812112::168431
 part-Slice 368.png::CompressedTexture2D::3157999050906939028::1603812112::1684312305::1::::<><>::
 platformer_level03_loop.ogg::AudioStreamOggVorbis::1530919533539787061::1477721120::1684623965::1::::<><>::
 spritesheet(Itch.io).png::CompressedTexture2D::9136461639710608687::1684645984::1684650540::1::::<><>::
+Undertale OST_ 012 - Home.mp3::AudioStreamMP3::2818542200949638292::1684736273::1684736458::1::::<><>::
+Undertale OST_ 014 - Heartache.mp3::AudioStreamMP3::7751751749430179730::1684736368::1684736421::1::::<><>::
 ::res://assets/avatar frames/::1684312306
 fwd1.png::CompressedTexture2D::3205219399820864579::1683610271::1684312306::1::::<><>::
 fwd2.png::CompressedTexture2D::2146185302320590571::1683611062::1684312306::1::::<><>::
@@ -27,7 +33,8 @@ upwalk1.png::CompressedTexture2D::5613682808119275036::1683612278::1684312306::1
 upwalk2.png::CompressedTexture2D::1624162867114622570::1683612299::1684312306::1::::<><>::
 ::res://assets/char free/::1684312306
 global.png::CompressedTexture2D::187025509935893635::1635701684::1684312306::1::::<><>::
-::res://assets/Font/::1684312305
+::res://assets/Font/::1684727906
+jmh-cthulhumbus-arcade.cthulhumbusarcade-regular.otf::FontFile::6802692662434548843::1684727850::1684727906::1::::<><>::
 ka1.ttf::FontFile::1582421323926344875::1118822602::1684312305::1::::<><>::
 MinecraftRegular-Bmg3.otf::FontFile::993453600934346791::1672537684::1684312305::1::::<><>::
 ::res://assets/GuttyKreumNatureTilesvol1_v2/::1684375851
@@ -2115,7 +2122,7 @@ Wooden-fence-4.png::CompressedTexture2D::5331918699038911362::1612413198::168437
 Flower-1.png::CompressedTexture2D::4165399691955321248::1612402582::1684375851::1::::<><>::
 Flower-2.png::CompressedTexture2D::424856581851079855::1612402624::1684375851::1::::<><>::
 Flower-3.png::CompressedTexture2D::6359798517400289256::1612402660::1684375851::1::::<><>::
-::res://assets/Small Forest Asset Pack/Grass/::1684375851
+::res://assets/Small Forest Asset Pack/Grass/::1684729919
 Grass-1.png::CompressedTexture2D::8829934474836501000::1612402476::1684375851::1::::<><>::
 Grass-2.png::CompressedTexture2D::1136980325764102914::1612402506::1684375851::1::::<><>::
 ::res://assets/Small Forest Asset Pack/Ground tileset/::1684375851
@@ -2172,12 +2179,12 @@ rock-2.png::CompressedTexture2D::4776466399115392069::1651622506::1684312305::1:
 straw-house.png::CompressedTexture2D::4095436506239262439::1651622438::1684312305::1::::<><>::
 tree-house.png::CompressedTexture2D::1369836226247546626::1651782828::1684312305::1::::<><>::
 wooden-house.png::CompressedTexture2D::3501041168408556433::1651782807::1684312305::1::::<><>::
-::res://scenes/::1684625602
+::res://scenes/::1684736392
 main.gdshader::Shader::-1::1683177706::0::1::::<><>::
-main.tscn::PackedScene::2372000682183943994::1684625602::0::1::::<><>::res://scripts/main.gd<>uid://v2uaylihb5af<>uid://wssiox2irb1l<>uid://mo1g2vqhe5bj<>uid://ofibhhwoe1ux
+main.tscn::PackedScene::2372000682183943994::1684736392::0::1::::<><>::res://scripts/main.gd<>uid://dipaho5ptk7ja<>uid://wssiox2irb1l<>uid://mo1g2vqhe5bj<>uid://ofibhhwoe1ux
 moving_main.gdshader::Shader::-1::1683354663::0::1::::<><>::
-Player.tscn::PackedScene::5605110479209342404::1684308932::0::1::::<><>::res://scripts/character_animation.gd<>uid://cda3b41pht6e2
-world.tscn::PackedScene::946615313139636700::1684625602::0::1::::<><>::res://scripts/world.gd<>uid://benpjemb53ilp<>uid://cl4fl6m7sttq7<>uid://bwseprlgreehq<>uid://b0ogwr6wsca3a<>uid://co5esy40ee8ud<>uid://dq3ustyok3wr6<>uid://bfh1vss51s06r<>uid://b5sfwiby37hmt<>uid://b78nh6fjjkcbi<>uid://ifrfsgc5oxh1<>uid://ccyfyvsx584pn<>uid://cyteqjdr2s5ej<>uid://df7uw1sqc7alh<>uid://bwiy07qxsxxi0<>uid://blwbbako4xa7x<>uid://bbc7nemy1cvdy<>uid://c7lqgll2t5jh6<>uid://omx1ejyqsy16<>uid://b4sible55nw7o<>uid://kii5nkskmfu1<>uid://d1x7n3l1m5qvp<>uid://c5u4funvcllkm<>uid://m7ris31dhfec<>uid://yvd0jb1ujoi5<>uid://bl7givuug024j<>uid://bpm1qgnkjyhit<>uid://dhklr51coukp7<>uid://bk801veha6npk<>uid://d078sak7dy66g<>uid://dccj8q2uarw4u<>uid://ofibhhwoe1ux<>uid://cs1eoh5osr4hi<>uid://cepwfxblhxlxm<>uid://bmwp6ely3hp7k<>uid://c6ye11ehynjk0<>uid://blxgd32ipunrp
+Player.tscn::PackedScene::5605110479209342404::1684736392::0::1::::<><>::res://scripts/character_animation.gd<>uid://cda3b41pht6e2
+world.tscn::PackedScene::946615313139636700::1684736392::0::1::::<><>::res://scripts/world.gd<>uid://benpjemb53ilp<>uid://cl4fl6m7sttq7<>uid://bwseprlgreehq<>uid://bg0gij5v05oi6<>uid://c1ptdgbxjm1k7<>uid://b0ogwr6wsca3a<>uid://3b33y8rn2tfg<>uid://co5esy40ee8ud<>uid://dq3ustyok3wr6<>uid://du8sh5qsp07gp<>uid://bfh1vss51s06r<>uid://li2eegf7bygk<>uid://b5sfwiby37hmt<>uid://b78nh6fjjkcbi<>uid://ifrfsgc5oxh1<>uid://ccyfyvsx584pn<>uid://cyteqjdr2s5ej<>uid://df7uw1sqc7alh<>uid://blwbbako4xa7x<>uid://bbc7nemy1cvdy<>uid://c7lqgll2t5jh6<>uid://omx1ejyqsy16<>uid://b4sible55nw7o<>uid://kii5nkskmfu1<>uid://d1x7n3l1m5qvp<>uid://c5u4funvcllkm<>uid://m7ris31dhfec<>uid://yvd0jb1ujoi5<>uid://bl7givuug024j<>uid://bpm1qgnkjyhit<>uid://dhklr51coukp7<>uid://bk801veha6npk<>uid://d078sak7dy66g<>uid://dccj8q2uarw4u<>uid://ofibhhwoe1ux<>uid://cs1eoh5osr4hi<>uid://cepwfxblhxlxm<>uid://bgfk8i4maefqa<>uid://bmwp6ely3hp7k<>uid://c6ye11ehynjk0<>uid://blxgd32ipunrp<>uid://c36jmbsal8de6<>uid://br7ibf1m2bglr<>uid://bpwv2penlr5mk
 ::res://scripts/::1684625096
 character_animation.gd::GDScript::-1::1684624321::0::1::::<>CharacterBody2D<>::
 main.gd::GDScript::-1::1683258323::0::1::::<>Control<>::

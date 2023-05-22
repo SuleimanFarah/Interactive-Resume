@@ -1,8 +1,9 @@
-[gd_scene load_steps=11 format=3 uid="uid://82arfoavuoic"]
+[gd_scene load_steps=14 format=3 uid="uid://82arfoavuoic"]
 
 [ext_resource type="Script" path="res://scripts/main.gd" id="1_u62sb"]
-[ext_resource type="AudioStream" uid="uid://v2uaylihb5af" path="res://assets/platformer_level03_loop.ogg" id="2_rk86l"]
+[ext_resource type="AudioStream" uid="uid://dipaho5ptk7ja" path="res://assets/Undertale OST_ 014 - Heartache.mp3" id="2_pcucx"]
 [ext_resource type="FontFile" uid="uid://wssiox2irb1l" path="res://assets/Font/ka1.ttf" id="5_wb6cf"]
+[ext_resource type="Shader" path="res://scripts/pixeltransition.gdshader" id="6_log0f"]
 [ext_resource type="Texture2D" uid="uid://mo1g2vqhe5bj" path="res://assets/main_background/cityset_parralax.png" id="7_gl0ds"]
 [ext_resource type="FontFile" uid="uid://ofibhhwoe1ux" path="res://assets/Font/MinecraftRegular-Bmg3.otf" id="8_bndfe"]
 
@@ -38,27 +39,48 @@ tracks/0/keys = {
 "values": ["PRESS ENTER", "", "PRESS ENTER"]
 }
 
-[sub_resource type="Animation" id="Animation_7b8wc"]
-resource_name = "Fade Out"
+[sub_resource type="Animation" id="Animation_gxsxb"]
+resource_name = "Pixel"
 length = 0.8
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
-tracks/0/path = NodePath("ColorRect:color")
+tracks/0/path = NodePath("ColorRect:material:shader_parameter/time")
 tracks/0/interp = 1
 tracks/0/loop_wrap = true
 tracks/0/keys = {
-"times": PackedFloat32Array(0, 0.8),
-"transitions": PackedFloat32Array(1, 1),
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1),
 "update": 0,
-"values": [Color(1, 1, 1, 0), Color(0, 0, 0, 1)]
+"values": [0.0, 0.026, 0.071, 0.24, 0.44, 0.732, 0.906, 1.06]
+}
+
+[sub_resource type="Animation" id="Animation_hssca"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:material:shader_parameter/time")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.026]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_ciucu"]
 _data = {
 "Blink": SubResource("Animation_ahw2h"),
-"Fade Out": SubResource("Animation_7b8wc")
+"Pixel": SubResource("Animation_gxsxb"),
+"RESET": SubResource("Animation_hssca")
 }
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_a0wqv"]
+shader = ExtResource("6_log0f")
+shader_parameter/time = 0.026
+shader_parameter/custom_resolution = Vector2(100, 100)
 
 [node name="Main" type="Control"]
 clip_contents = true
@@ -76,7 +98,8 @@ scale = Vector2(0.561858, 0.561858)
 script = ExtResource("1_u62sb")
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("2_rk86l")
+stream = ExtResource("2_pcucx")
+volume_db = -18.738
 
 [node name="NameText" type="Label" parent="."]
 layout_mode = 0
@@ -117,18 +140,8 @@ libraries = {
 "": SubResource("AnimationLibrary_ciucu")
 }
 
-[node name="ColorRect" type="ColorRect" parent="."]
-layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
-scale = Vector2(64.8091, 29.4152)
-color = Color(1, 1, 1, 0)
-
-[node name="Timer" type="Timer" parent="."]
-wait_time = 0.5
-one_shot = true
-
 [node name="EnterText2" type="Label" parent="."]
+layout_mode = 0
 offset_left = 564.199
 offset_top = 1091.02
 offset_right = 1476.2
@@ -137,5 +150,17 @@ scale = Vector2(0.602228, 0.602228)
 theme_override_fonts/font = ExtResource("8_bndfe")
 theme_override_font_sizes/font_size = 74
 text = "USE ARROW KEYS TO MOVE"
+
+[node name="ColorRect" type="ColorRect" parent="."]
+material = SubResource("ShaderMaterial_a0wqv")
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+scale = Vector2(64.8091, 29.4152)
+color = Color(0, 0, 0, 1)
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 0.8
+one_shot = true
 
 [connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

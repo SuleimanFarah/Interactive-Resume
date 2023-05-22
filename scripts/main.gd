@@ -23,7 +23,7 @@ func _ready():
 func _input(event):
 	if event is InputEventKey and Input.is_action_pressed("enter_key"):
 		rect.visible = not rect.visible;
-		animation_player.play("Fade Out")	
+		animation_player.play("Pixel")	
 		timer.start()
 
 func _on_timer_timeout():

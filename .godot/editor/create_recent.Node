@@ -1,3 +1,7 @@
+Timer
+ColorRect
+VBoxContainer
+ScrollContainer
 Label
 VScrollBar
 TileMap
