@@ -1,4 +1,4 @@
-[gd_scene load_steps=154 format=3 uid="uid://nqsu68sjcswi"]
+[gd_scene load_steps=156 format=3 uid="uid://c574kg2plygrx"]
 
 [ext_resource type="Script" path="res://scripts/world.gd" id="1_wggw2"]
 [ext_resource type="Texture2D" uid="uid://benpjemb53ilp" path="res://assets/Pixel_Interiors/Interior.png" id="2_1jedy"]
@@ -6,7 +6,6 @@
 [ext_resource type="Texture2D" uid="uid://bwseprlgreehq" path="res://assets/interior free/interior free.png" id="3_g6boq"]
 [ext_resource type="Texture2D" uid="uid://bg0gij5v05oi6" path="res://assets/Small Forest Asset Pack/Ground tileset/Earth-tileset.png" id="3_u75mn"]
 [ext_resource type="Texture2D" uid="uid://c1ptdgbxjm1k7" path="res://assets/Small Forest Asset Pack/Ground tileset/Bright-grass-tileset.png" id="4_d81of"]
-[ext_resource type="Texture2D" uid="uid://b0ogwr6wsca3a" path="res://assets/sierrassets furniture pack/floors and walls/floor and walls spritesheet black outline.png" id="4_ri107"]
 [ext_resource type="Texture2D" uid="uid://3b33y8rn2tfg" path="res://assets/Small Forest Asset Pack/Ground tileset/Dark-grass-tileset.png" id="5_w24t6"]
 [ext_resource type="Texture2D" uid="uid://co5esy40ee8ud" path="res://assets/specific assets for comp background/part-Slice 408.png" id="7_p3du8"]
 [ext_resource type="Texture2D" uid="uid://dq3ustyok3wr6" path="res://assets/specific assets for comp background/part-Slice 409.png" id="8_ar00o"]
@@ -39,8 +38,7 @@
 [ext_resource type="FontFile" uid="uid://ofibhhwoe1ux" path="res://assets/Font/MinecraftRegular-Bmg3.otf" id="22_t4bgs"]
 [ext_resource type="Texture2D" uid="uid://cs1eoh5osr4hi" path="res://assets/planets/planet1.png" id="23_owc30"]
 [ext_resource type="Texture2D" uid="uid://cepwfxblhxlxm" path="res://assets/part-Slice 360.png" id="23_wyrto"]
-[ext_resource type="AudioStream" uid="uid://bgfk8i4maefqa" path="res://assets/Undertale OST_ 012 - Home.mp3" id="30_cwm6g"]
-[ext_resource type="Texture2D" uid="uid://bmwp6ely3hp7k" path="res://assets/sierrassets furniture pack/furniture/individual sprites/part-Slice 233.png" id="33_6d21d"]
+[ext_resource type="AudioStream" uid="uid://diwsf4krw1fbp" path="res://assets/Undertale-OST_-012-Home.ogg" id="30_imfjs"]
 [ext_resource type="Texture2D" uid="uid://c6ye11ehynjk0" path="res://assets/Pixel_Interiors/part-Slice 208.png" id="34_et8tl"]
 [ext_resource type="Texture2D" uid="uid://blxgd32ipunrp" path="res://assets/Pixel_Interiors/part-Slice 218.png" id="35_s7o37"]
 [ext_resource type="FontFile" uid="uid://c36jmbsal8de6" path="res://assets/Font/jmh-cthulhumbus-arcade.cthulhumbusarcade-regular.otf" id="43_bsqdf"]
@@ -61,7 +59,10 @@
 [ext_resource type="Texture2D" uid="uid://c3qotfqy10gio" path="res://assets/Yellow Dungeon Tileset v1.1.1/Yellow Brick Wall.png" id="59_5nmgr"]
 [ext_resource type="Texture2D" uid="uid://b5cl3q1pcmmcf" path="res://assets/github.png" id="60_infes"]
 [ext_resource type="Texture2D" uid="uid://l8f66p3k8tc6" path="res://assets/linkedin.png" id="61_ey15w"]
+[ext_resource type="Texture2D" uid="uid://b0l0r3fhd8yku" path="res://assets/Small Forest Asset Pack/Flowers/Flower-1.png" id="62_7lw2n"]
 [ext_resource type="Texture2D" uid="uid://cjgdjxhtxajq2" path="res://assets/gmail.png" id="62_tnxt2"]
+[ext_resource type="Texture2D" uid="uid://gb2lcwpm536r" path="res://assets/Small Forest Asset Pack/Flowers/Flower-2.png" id="63_v7ysj"]
+[ext_resource type="Texture2D" uid="uid://cwuy7m8i641g3" path="res://assets/Small Forest Asset Pack/Flowers/Flower-3.png" id="64_r4lyj"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_5bc40"]
 texture = ExtResource("3_u75mn")
@@ -1611,8 +1612,11 @@ texture = ExtResource("4_d81of")
 8:19/0 = 0
 9:19/0 = 0
 
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_g8r8j"]
+load_path = "res://.godot/imported/floor and walls spritesheet black outline.png-d631f6c8e982dc53a28785df35199694.ctex"
+
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_21av6"]
-texture = ExtResource("4_ri107")
+texture = SubResource("CompressedTexture2D_g8r8j")
 margins = Vector2i(0, 1)
 texture_region_size = Vector2i(9, 9)
 1:0/0 = 0
@@ -2894,7 +2898,7 @@ scale = Vector2(40.7867, 10.4483)
 color = Color(0, 0, 0, 1)
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("30_cwm6g")
+stream = ExtResource("30_imfjs")
 volume_db = -16.865
 
 [node name="Furnace" type="Sprite2D" parent="."]
@@ -3018,7 +3022,6 @@ texture = ExtResource("23_wyrto")
 
 [node name="Part-slice233" type="Sprite2D" parent="."]
 position = Vector2(29, -66)
-texture = ExtResource("33_6d21d")
 
 [node name="Interior" type="Sprite2D" parent="."]
 position = Vector2(-51, -133)
@@ -3510,6 +3513,22 @@ offset_top = -52.0
 offset_right = 1352.0
 offset_bottom = -44.0
 scale = Vector2(5.33385, 4.84278)
+
+[node name="Flower-1" type="Sprite2D" parent="."]
+position = Vector2(624, -77)
+texture = ExtResource("62_7lw2n")
+
+[node name="Flower-2" type="Sprite2D" parent="."]
+position = Vector2(828, -13)
+texture = ExtResource("63_v7ysj")
+
+[node name="Flower-3" type="Sprite2D" parent="."]
+position = Vector2(888, -101)
+texture = ExtResource("64_r4lyj")
+
+[node name="Flower-4" type="Sprite2D" parent="."]
+position = Vector2(648, 34)
+texture = ExtResource("64_r4lyj")
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
 [connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
