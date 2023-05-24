@@ -1,10 +1,10 @@
 2a60927148abd1d33b818b535e306557
-::res://::1684881138
-export_presets.cfg::TextFile::-1::1684880527::0::1::::<><>::
+::res://::1684905642
+export_presets.cfg::TextFile::-1::1684905595::0::1::::<><>::
 Grass-1.png::CompressedTexture2D::3646178938768619351::1684729933::1684808824::1::::<><>::
 Grass-2.png::CompressedTexture2D::3485993716771963122::1684729922::1684808824::1::::<><>::
-README.md::TextFile::-1::1684312113::0::1::::<><>::
-::res://assets/::1684827002
+README.md::TextFile::-1::1684905535::0::1::::<><>::
+::res://assets/::1684905554
 github.png::CompressedTexture2D::4496933518715167065::1684747800::1684808824::1::::<><>::
 gmail.png::CompressedTexture2D::5417126669520999663::1684748357::1684808824::1::::<><>::
 linkedin.png::CompressedTexture2D::840562343160007959::1684729718::1684808824::1::::<><>::
@@ -14,33 +14,33 @@ part-Slice 141.png::CompressedTexture2D::718943467255355798::1603812110::1684808
 part-Slice 146.png::CompressedTexture2D::7304374760989971854::1603812110::1684808824::1::::<><>::
 part-Slice 155.png::CompressedTexture2D::6921565024874843364::1603812110::1684808824::1::::<><>::
 part-Slice 156.png::CompressedTexture2D::7042575301748625521::1603812110::1684808824::1::::<><>::
-part-Slice 233.png::CompressedTexture2D::3275069460655763774::1603812112::1684826831::1::::<><>::
+part-Slice 233.png::CompressedTexture2D::3275069460655763774::1684905554::1684905554::1::::<><>::
 part-Slice 270.png::CompressedTexture2D::3203976793211242655::1603812112::1684808824::1::::<><>::
 part-Slice 360.png::CompressedTexture2D::5085908321151534222::1603812112::1684808824::1::::<><>::
 part-Slice 368.png::CompressedTexture2D::3157999050906939028::1603812112::1684808824::1::::<><>::
 spritesheet(Itch.io).png::CompressedTexture2D::9136461639710608687::1684645984::1684808824::1::::<><>::
-Undertale-OST_-012-Home.ogg::AudioStreamOggVorbis::7767292485040225813::1684826569::1684826680::1::::<><>::
-Undertale-OST_-014-Heartache.ogg::AudioStreamOggVorbis::4568026419461537958::1684826654::1684826683::1::::<><>::
-::res://assets/avatar frames/::1684827072
+Undertale-OST_-012-Home.ogg::AudioStreamOggVorbis::7767292485040225813::1684905554::1684905554::1::::<><>::
+Undertale-OST_-014-Heartache.ogg::AudioStreamOggVorbis::4568026419461537958::1684905554::1684905554::1::::<><>::
+::res://assets/avatar frames/::1684905554
 side4.png::CompressedTexture2D::4985111323925402631::1683953091::1684808824::1::::<><>::
 ::res://assets/Font/::1684808703
 jmh-cthulhumbus-arcade.cthulhumbusarcade-regular.otf::FontFile::6802692662434548843::1684727850::1684727906::1::::<><>::
 ka1.ttf::FontFile::1582421323926344875::1118822602::1684312305::1::::<><>::
 MinecraftRegular-Bmg3.otf::FontFile::993453600934346791::1672537684::1684808703::1::::<><>::
-::res://assets/interior free/::1684826934
+::res://assets/interior free/::1684905554
 interior free.png::CompressedTexture2D::3968004608367822142::1639071586::1684808824::1::::<><>::
-::res://assets/main_background/::1684826923
+::res://assets/main_background/::1684905554
 cityset_parralax.png::CompressedTexture2D::872758220096442611::1683177899::1684808824::1::::<><>::
-::res://assets/Pixel_Interiors/::1684826907
+::res://assets/Pixel_Interiors/::1684905554
 Interior.png::CompressedTexture2D::2694940024802337925::1683324425::1684808824::1::::<><>::
 part-Slice 208.png::CompressedTexture2D::6998531257012196953::1683617172::1684808824::1::::<><>::
 part-Slice 218.png::CompressedTexture2D::3206349824140998997::1683617159::1684808824::1::::<><>::
 ::res://assets/planets/::1684808824
 planet1.png::CompressedTexture2D::6090182658230509010::1684570259::1684808824::1::::<><>::
 ::res://assets/Resume/::1684309864
-::res://assets/sierrassets furniture pack/::1684826851
+::res://assets/sierrassets furniture pack/::1684905554
 interior bundle contents.txt::TextFile::-1::1603557968::0::1::::<><>::
-::res://assets/sierrassets furniture pack/pets/::1684826868
+::res://assets/sierrassets furniture pack/pets/::1684905554
 ::res://assets/sierrassets furniture pack/pets/individual sprites/::1684808824
 cat1.png::CompressedTexture2D::7671927595478738822::1683615062::1684808824::1::::<><>::
 cat2.png::CompressedTexture2D::8982079052118573968::1683614995::1684808824::1::::<><>::
@@ -68,7 +68,7 @@ Slice 21.png::CompressedTexture2D::8040472101164150300::1603814188::1684808824::
 Slice 22.png::CompressedTexture2D::1571140439595011541::1603814188::1684808824::1::::<><>::
 Slice 23.png::CompressedTexture2D::7432389162218846147::1603814188::1684808824::1::::<><>::
 Slice 24.png::CompressedTexture2D::3413373746948694494::1603814188::1684808824::1::::<><>::
-::res://assets/Small Forest Asset Pack/::1684826969
+::res://assets/Small Forest Asset Pack/::1684905554
 ::res://assets/Small Forest Asset Pack/Bench and chest/::1684808824
 Bench.png::CompressedTexture2D::2403073194872007620::1612410466::1684808824::1::::<><>::
 Chest.png::CompressedTexture2D::1035712482876419985::1612402370::1684808824::1::::<><>::
@@ -118,17 +118,17 @@ part-Slice 411.png::CompressedTexture2D::4529588087697627975::1603812112::168480
 part-Slice 412.png::CompressedTexture2D::572874710541779444::1603812112::1684808824::1::::<><>::
 part-Slice 413.png::CompressedTexture2D::6496868710853449385::1603812112::1684808824::1::::<><>::
 part-Slice 419.png::CompressedTexture2D::5781548983498735002::1603812112::1684808824::1::::<><>::
-::res://assets/Yellow Dungeon Tileset v1.1.1/::1684826995
+::res://assets/Yellow Dungeon Tileset v1.1.1/::1684905554
 Yellow Brick Floor.png::CompressedTexture2D::2753996623045507087::1628628250::1684808824::1::::<><>::
 Yellow Brick Wall.png::CompressedTexture2D::6772043289758794910::1615783676::1684808824::1::::<><>::
 Yellow Dungeon Tileset.png::CompressedTexture2D::5273836636883027170::1628628254::1684808824::1::::<><>::
-::res://scenes/::1684881057
+::res://scenes/::1684905554
 main.gdshader::Shader::-1::1683177706::0::1::::<><>::
-main.tscn::PackedScene::2372000682183943994::1684881057::0::1::::<><>::res://scripts/main.gd<>uid://wssiox2irb1l<>res://scripts/pixeltransition.gdshader<>uid://mo1g2vqhe5bj<>uid://ofibhhwoe1ux
+main.tscn::PackedScene::2372000682183943994::1684905554::0::1::::<><>::res://scripts/main.gd<>uid://wssiox2irb1l<>res://scripts/pixeltransition.gdshader<>uid://mo1g2vqhe5bj<>uid://ofibhhwoe1ux
 moving_main.gdshader::Shader::-1::1683354663::0::1::::<><>::
 Player.tscn::PackedScene::5605110479209342404::1684881057::0::1::::<><>::res://scripts/character_animation.gd<>uid://cda3b41pht6e2
-world.tscn::PackedScene::6946345772933364865::1684881057::0::1::::<><>::res://scripts/world.gd<>uid://benpjemb53ilp<>uid://cl4fl6m7sttq7<>uid://bwseprlgreehq<>uid://bg0gij5v05oi6<>uid://c1ptdgbxjm1k7<>uid://3b33y8rn2tfg<>uid://co5esy40ee8ud<>uid://dq3ustyok3wr6<>uid://du8sh5qsp07gp<>uid://bfh1vss51s06r<>uid://li2eegf7bygk<>uid://b5sfwiby37hmt<>uid://b78nh6fjjkcbi<>uid://ifrfsgc5oxh1<>uid://chexk3v0iknpa<>uid://ccyfyvsx584pn<>uid://cyteqjdr2s5ej<>uid://df7uw1sqc7alh<>uid://blwbbako4xa7x<>uid://bbc7nemy1cvdy<>uid://c7lqgll2t5jh6<>uid://omx1ejyqsy16<>uid://b4sible55nw7o<>uid://kii5nkskmfu1<>uid://d1x7n3l1m5qvp<>uid://c5u4funvcllkm<>uid://m7ris31dhfec<>uid://yvd0jb1ujoi5<>uid://bl7givuug024j<>uid://bpm1qgnkjyhit<>uid://dhklr51coukp7<>uid://bk801veha6npk<>uid://d078sak7dy66g<>uid://dccj8q2uarw4u<>uid://ofibhhwoe1ux<>uid://cs1eoh5osr4hi<>uid://cepwfxblhxlxm<>uid://diwsf4krw1fbp<>uid://c6ye11ehynjk0<>uid://blxgd32ipunrp<>uid://c36jmbsal8de6<>uid://br7ibf1m2bglr<>uid://bpwv2penlr5mk<>uid://o0ybep1s831f<>uid://baici8xago2no<>uid://b7owq8hpeubus<>uid://c8derh6ynli6v<>uid://p75rwejhog8c<>uid://nh1sfqlfpmdq<>uid://m8r5ak38r15h<>uid://b7x46g3k0moe2<>uid://b4i58du8il0xt<>uid://d3fdtku0ceem4<>res://scripts/pixeltransition.gdshader<>uid://bfib6l38lm208<>uid://c3qotfqy10gio<>uid://b5cl3q1pcmmcf<>uid://l8f66p3k8tc6<>uid://b0l0r3fhd8yku<>uid://cjgdjxhtxajq2<>uid://gb2lcwpm536r<>uid://cwuy7m8i641g3
-::res://scripts/::1684827015
+world.tscn::PackedScene::6946345772933364865::1684905554::0::1::::<><>::res://scripts/world.gd<>uid://benpjemb53ilp<>uid://cl4fl6m7sttq7<>uid://bwseprlgreehq<>uid://bg0gij5v05oi6<>uid://c1ptdgbxjm1k7<>uid://3b33y8rn2tfg<>uid://co5esy40ee8ud<>uid://dq3ustyok3wr6<>uid://du8sh5qsp07gp<>uid://bfh1vss51s06r<>uid://li2eegf7bygk<>uid://b5sfwiby37hmt<>uid://b78nh6fjjkcbi<>uid://ifrfsgc5oxh1<>uid://chexk3v0iknpa<>uid://ccyfyvsx584pn<>uid://cyteqjdr2s5ej<>uid://df7uw1sqc7alh<>uid://blwbbako4xa7x<>uid://bbc7nemy1cvdy<>uid://c7lqgll2t5jh6<>uid://omx1ejyqsy16<>uid://b4sible55nw7o<>uid://kii5nkskmfu1<>uid://d1x7n3l1m5qvp<>uid://c5u4funvcllkm<>uid://m7ris31dhfec<>uid://yvd0jb1ujoi5<>uid://bl7givuug024j<>uid://bpm1qgnkjyhit<>uid://dhklr51coukp7<>uid://bk801veha6npk<>uid://d078sak7dy66g<>uid://dccj8q2uarw4u<>uid://ofibhhwoe1ux<>uid://cs1eoh5osr4hi<>uid://cepwfxblhxlxm<>uid://diwsf4krw1fbp<>uid://c6ye11ehynjk0<>uid://blxgd32ipunrp<>uid://c36jmbsal8de6<>uid://br7ibf1m2bglr<>uid://bpwv2penlr5mk<>uid://o0ybep1s831f<>uid://baici8xago2no<>uid://b7owq8hpeubus<>uid://c8derh6ynli6v<>uid://p75rwejhog8c<>uid://nh1sfqlfpmdq<>uid://m8r5ak38r15h<>uid://b7x46g3k0moe2<>uid://b4i58du8il0xt<>uid://d3fdtku0ceem4<>res://scripts/pixeltransition.gdshader<>uid://bfib6l38lm208<>uid://c3qotfqy10gio<>uid://b5cl3q1pcmmcf<>uid://l8f66p3k8tc6<>uid://b0l0r3fhd8yku<>uid://cjgdjxhtxajq2<>uid://gb2lcwpm536r<>uid://cwuy7m8i641g3
+::res://scripts/::1684905554
 character_animation.gd::GDScript::-1::1684624321::0::1::::<>CharacterBody2D<>::
 main.gd::GDScript::-1::1684742183::0::1::::<>Control<>::
 pixeltransition.gdshader::Shader::-1::1684749516::0::1::::<><>::

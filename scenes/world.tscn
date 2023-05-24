@@ -3095,8 +3095,21 @@ appealing and user-friendly interface.
  their to-do lists from any device and ensuring secure authentication.
 » Overcame challenges with integrating Firebase and authentication functionalities, 
 demonstrating adaptability and a willingness to learn new technologies.
-» Implemented a task completion recording system, empowering users to track their 
-progress and stay organized."
+» Implemented a task completion recording system, 
+empowering users to track their progress and stay organized.
+
+Scalable Boggle | Java, JavaFX, Google Text-to-Speech API
+» Developed a Boggle AI with scaling computer difficulty
+» Utilized key JavaFX methods to create an organized, streamlined GU
+» Implemented text-to-speech accessibility features to support users 
+with hearing disabilities.
+
+IOS Campus Mobile App Notification | Swift
+» Developed a notification feature which allows customers to
+conveniently access campus services like dining, bus, and
+recreation services
+» Used an API to filter user data and store in databases
+» Scheduled and organized team meetings to finalize projects"
 metadata/_edit_use_anchors_ = true
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]

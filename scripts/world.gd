@@ -23,7 +23,7 @@ func _exit_tree():
 	music.stop()
 
 func _on_button_pressed():
-	var url = "https://www.dropbox.com/s/6jmvcuv0h980n00/Suleiman%20Farah%20Resume.pdf?dl=0"
+	var url = "https://www.dropbox.com/s/tvp30dkg65wrvtt/Suleiman%20Farah%20Resume.pdf?dl=0"
 	OS.shell_open(url)
 
 func _on_timer_timeout():
